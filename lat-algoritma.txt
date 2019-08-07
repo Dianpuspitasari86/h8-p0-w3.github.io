@@ -1,0 +1,60 @@
+Algoritma no 7
+
+soal nomor 1
+
+1.masukkan nilai 5  di variabel rows 1
+2.selama nilai variabel lebih kecil daripada 5 maka lanjut ke step 3, bisa tidak lanjut ke step 4
+3.apabila nilai variabel lebih kecil dari 5 maka looping akan terus berjalan
+4.apabila nilai variabel sudah sama dengan 5 maka hitungan selesai,
+5.tampilkan "*".
+
+soal nomor 2
+
+1.masukkan nilai 5 di variabel rows 2
+2.masukkan nilai i yang akan di cari
+3.masukkan nilai j yang akan di cari
+4.apabila nilai i dan j lebih kecil dari 5 maka looping akan terus berjalan
+5.apabila nilai i dan j sudah sama dengan 5 maka hitungan selesai
+6.tampilkan "*"
+
+soal nomor 3
+
+1.masukkan nilai 5 di variabel rows 3
+2.masukkan nilai i yang akan dicari
+3.tampilkan nilai i
+4.masukkan nilai j yang akan di cari
+5.tampilkan nilai i dan j secara bersamaan dengan spasi di antaranya
+6.tampilkan "*"
+
+Algoritma 10
+
+1.masukkan function dengan variabel bandingkanAngka dengan parameter angka1 dan angka2,
+2.jika angka2 lebih besar dari angka1 maka function akan mengembalikan nilai true,
+3.lain jika angka1 lebih besar dari angka2 maka function akan mengembalikan nilai false,
+4.selain dari itu apabila kedua nilai bernilai sama maka function akan mengembalikan nilai -1,
+5.tampilkan nilai bandingkanAngka
+
+Algoritma 11
+
+1.masukkan function dengan variabel balikKata dengan satu parameter berupa string,
+2.function akan mengembalikan kata dengan cara menggunakan fungsi pemisah atau split
+3.setelah di pisah baru akan menggunakan fungsi reverse atau pembalik
+4.setelahnya baru akan di satukan kembali tapi hasilnya adalah kata yang sudah di balik
+5.tampilkan nilai balikKata
+
+Algoritma 12
+
+1.masukkan function dengan variabel konversiMenit dengan satu parameter berupa angka yang merupakan ukuran waktu dalam menit,
+2.function akan mengembalikan string waktu dalam format jam:menit berdasarkan menit tersebut,
+3.maka variabel a adalah menit dibagi 60
+4.dan variabel b adalah menit modulus 60 dan di hitung berdasarkan panjang dan string dari variabel
+5.maka fungsi akan mengembalikan nilai a yang di tambahkan dengan menit
+6.tampilkan nilai konversiMenit
+
+Algoritma 13
+
+1.masukkan function dengan variabel xo(str) dengan satu parameter berupa string
+2.function akan mengembalikan nilai true apabila jumlah karakter x sama dengan jumlah karakter o 
+3.dan function akan mengembalikan nilai false apabila jumlah karakter x tidak sama dengan dengan jumlah karakter o
+4.tampilkan nilai xo(str)
+
