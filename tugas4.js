@@ -28,8 +28,8 @@ function dataHandling2(input) {
    })
    console.log(sorting);
 
-   var join = sorting.join('-') 
-      console.log(join);
+   var gabung = input[3].split(' ').join('') 
+      console.log(gabung);
 
    var name = input[1].slice(0,15)
       console.log(name)
